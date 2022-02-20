@@ -1,1 +1,2 @@
-This is backemd for Food Finder app
+This is backend for Food Finder app
+Author is Iskander Vagizov
